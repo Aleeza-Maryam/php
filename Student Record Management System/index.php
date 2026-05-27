@@ -274,7 +274,7 @@
         <form action="process.php" method="POST" class="form-group">
             <div class="input-field">
                 <label>Full Name</label>
-                <input type="text" name="name" placeholder="e.g., John Carter" required>
+                <input type="text" name="name" placeholder="e.g., Ali" required>
             </div>
             <div class="input-field">
                 <label>Email Address</label>

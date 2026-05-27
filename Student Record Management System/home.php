@@ -233,25 +233,7 @@
             color: #475569;
         }
 
-        @media (max-width: 768px) {
-            .landing-card {
-                padding: 2.5rem 1.5rem;
-            }
-            h1 {
-                font-size: 2.5rem;
-            }
-            .description {
-                font-size: 1rem;
-            }
-            .stats-row {
-                gap: 1.5rem;
-            }
-            .counter-value {
-                font-size: 1.2rem;
-                min-width: 70px;
-                padding: 0.4rem 1rem;
-            }
-        }
+      
     </style>
 </head>
 <body>
